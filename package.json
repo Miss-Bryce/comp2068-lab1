@@ -1,0 +1,15 @@
+{
+  "name": "comp2068-lab1",
+  "version": "1.0.0",
+  "description": "My first assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jillian Bryce (200440217)",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
+}
